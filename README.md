@@ -1,6 +1,8 @@
 # CryptoStalk
 CryptoStalk is a program which provide you the live Cryptocurrency Prices of about 25 Cryptocurrency
 
+*To run enter `python cryptostalk.py` in the terminal*.
+
 ## Dependencies
 
 Requires Python 3.4+ and pip3 for installing and running.
